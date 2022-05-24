@@ -11,6 +11,6 @@
 <br />
 <br />
 <br />
-3.&nbsp;We can reset anytime to start the timer from 0.
+3.&nbsp;We can reset anytime to set the timer to 0.
 <br />
 ![Stopwatch3](https://user-images.githubusercontent.com/83022701/148809293-b1df6f92-a489-458e-a763-ae7cea23a4d5.png)
